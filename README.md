@@ -1,10 +1,10 @@
 ### Hi there 👋 
-## Sunay Doğan
+# 👩‍💻 Sunay Doğan
 #### I am a web developer
-Welcome to my GitHub page. 🌸 I'm Sunay from Turkey. I first started my coding journey with Python. Nowadays I am working on my JavaScript skills. 👩‍💻 In other words, I have grown from 🐍 to 🐪, 🤭. I aim to be a great web developer 😎. You can reach me via my social media accounts. Before that, do not forget to check my projects 🙃. I want to wish you a good morning, good afternoon, good evening, and a goodnight. 👋
+Welcome to my GitHub page. 🌸 I'm Sunay from Turkey. I first started my coding journey with Python. Nowadays I am working on my JavaScript skills. In other words, I have grown from 🐍 to 🐪, 🤭. I aim to be a great web developer 😎. You can reach me via my social media accounts. Before that, do not forget to check my projects 🙃. I want to wish you a good morning, good afternoon, good evening, and a goodnight. 👋
 
 
-## Connect with me  
+# 🔗 Connect with me  
 <div align="left">
 <a href="https://linkedin.com/in/sunay-dogan" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
