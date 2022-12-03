@@ -3,8 +3,6 @@
 #### I am a web developer
 Welcome to my GitHub page. 🌸 I'm Sunay from Turkey. I first started my coding journey with Python. Nowadays I am working on my JavaScript skills. 👩‍💻 In other words, I have grown from 🐍 to 🐪, 🤭. I aim to be a great web developer 😎. You can reach me via my social media accounts. Before that, do not forget to check my projects 🙃. I want to wish you a good morning, good afternoon, good evening, and a goodnight. 👋
 
-Skills: HTML / CSS/ JS / PYTHON
-
 
 ## Connect with me  
 <div align="left">
