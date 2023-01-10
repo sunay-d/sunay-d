@@ -15,6 +15,9 @@ Welcome to my GitHub page. 🌸 I'm Sunay from Turkey. I first started my coding
 <a href="https://github.com/sunay-d" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
+<a href="https://leetcode.com/sunay_" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 </div>  
 
 
