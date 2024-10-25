@@ -1,6 +1,6 @@
 ### Hi there 👋 
 # 👩‍💻 Sunay Doğan
-#### I am a web developer
+#### I am an analytics software developer
 Welcome to my GitHub page. 🌸 I'm Sunay from Turkey. 
 
 
