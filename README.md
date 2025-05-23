@@ -18,7 +18,7 @@ I'm actively working on business analytics projects — transforming data into a
 </div>  
 
 # 💻 Tech Stack:
-#### Artifical Intelligence
+#### Artificial Intelligence
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 #### Cloud
