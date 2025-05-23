@@ -1,7 +1,8 @@
-### Hi there 👋 
 # 👩‍💻 Sunay Doğan
-#### I am an analytics software developer
-Welcome to my GitHub page. 🌸 I'm Sunay from Turkey. 
+#### Software Developer | BSc in Economics & Mathematics | MSc in Mathematics
+Hi there! I'm a software developer with a strong academic background in mathematics and economics. I specialize in building efficient, maintainable, and scalable applications with a keen focus on clean architecture and performance.
+
+My interests include web technologies, data structures, algorithms, and solving complex problems through code. I'm passionate about writing clean code, contributing to open-source projects, and staying up-to-date with emerging technologies.
 
 
 # 🔗 Connect with me  
@@ -26,6 +27,8 @@ Welcome to my GitHub page. 🌸 I'm Sunay from Turkey.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
