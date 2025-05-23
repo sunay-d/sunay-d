@@ -1,9 +1,8 @@
 # 👩‍💻 Sunay Doğan
 #### Software Developer | BSc in Economics & Mathematics | MSc in Mathematics
-Hi there! I'm a software developer with a strong academic background in mathematics and economics. I specialize in building efficient, maintainable, and scalable applications with a keen focus on clean architecture and performance.
+Hi there! I'm a software developer with a strong academic background in mathematics and economics. I specialize in building efficient, maintainable, and scalable applications with clean architecture and solid logic.
 
-My interests include web technologies, data structures, algorithms, and solving complex problems through code. I'm passionate about writing clean code, contributing to open-source projects, and staying up-to-date with emerging technologies.
-
+I'm actively working on business analytics projects — transforming data into actionable insights to support strategic decision-making. My interests include web technologies, algorithms, and solving real-world problems with data-driven solutions.
 
 # 🔗 Connect with me  
 <div align="left">
