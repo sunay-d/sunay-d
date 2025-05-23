@@ -1,5 +1,5 @@
 # 👩‍💻 Sunay Doğan
-#### Software Developer | BSc in Economics & Mathematics | MSc in Mathematics
+#### Software Developer | BSc in Economics & Mathematics | MSc in Mathematics | Currently pursuing an Associate Degree in Computer Programming
 
 ## 👋 About Me
 Hi there! I'm a software developer with a strong academic background in mathematics and economics. I specialize in building efficient, maintainable, and scalable applications with clean architecture and solid logic.
