@@ -1,5 +1,7 @@
 # 👩‍💻 Sunay Doğan
 #### Software Developer | BSc in Economics & Mathematics | MSc in Mathematics
+
+## 👋 About Me
 Hi there! I'm a software developer with a strong academic background in mathematics and economics. I specialize in building efficient, maintainable, and scalable applications with clean architecture and solid logic.
 
 I'm actively working on business analytics projects — transforming data into actionable insights to support strategic decision-making. My interests include web technologies, algorithms, and solving real-world problems with data-driven solutions.
@@ -29,7 +31,6 @@ I'm actively working on business analytics projects — transforming data into a
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 
 #### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
