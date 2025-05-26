@@ -22,6 +22,7 @@ I'm actively working on business analytics projects — transforming data into a
 # 💻 Tech Stack:
 #### Artificial Intelligence
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+[!Github Copilot](https://img.shields.io/badge/-Copilot-232323?logo=github-copilot)
 
 #### Cloud
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
