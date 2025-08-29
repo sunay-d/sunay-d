@@ -1,10 +1,12 @@
 # 👩‍💻 Sunay Doğan
-#### Software Developer | BSc in Economics & Mathematics | MSc in Mathematics | Currently pursuing an Associate Degree in Computer Programming
+#### Senior Consultant and Analytics Software Developer 
 
 ## 👋 About Me
-Hi there! I'm a software developer with a strong academic background in mathematics and economics. I specialize in building efficient, maintainable, and scalable applications with clean architecture and solid logic.
+I design and deliver analytics-driven software solutions that turn complex data into strategic business actions.
 
-I'm actively working on business analytics projects — transforming data into actionable insights to support strategic decision-making. My interests include web technologies, algorithms, and solving real-world problems with data-driven solutions.
+With an academic background in Mathematics & Economics and expertise in AI integration, full-stack development, and cloud architecture, I build scalable, robust applications aligned with business goals.
+
+My work covers the full lifecycle—from designing analytics workflows to deploying reliable cloud-based systems—ensuring every project is user-friendly and growth-oriented.
 
 # 🔗 Connect with me  
 <div align="left">
@@ -21,6 +23,7 @@ I'm actively working on business analytics projects — transforming data into a
 
 # 💻 Tech Stack:
 #### Artificial Intelligence
+
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 ![Github Copilot](https://img.shields.io/badge/-Copilot-232323?logo=github-copilot)
 
